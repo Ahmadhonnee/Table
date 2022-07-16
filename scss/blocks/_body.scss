@@ -1,0 +1,24 @@
+$br-radius: 10px;
+body{
+    background: rgb(236, 162, 162);
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px
+}
+.table{
+    border-collapse: collapse;
+    border: 2px solid rgb(69, 69, 69);
+}
+thead,tr,th,tbody,tr,td{
+    border: 2px solid rgb(69, 69, 69);
+}
+th{
+    height: 30px;
+}
+th,td{
+    padding: 10px 16px;
+    
+}
